@@ -1,0 +1,14 @@
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/bin/Debug/net10.0/DelegateAssignment
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/bin/Debug/net10.0/DelegateAssignment.deps.json
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/bin/Debug/net10.0/DelegateAssignment.runtimeconfig.json
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/bin/Debug/net10.0/DelegateAssignment.dll
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/bin/Debug/net10.0/DelegateAssignment.pdb
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.AssemblyInfoInputs.cache
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.AssemblyInfo.cs
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.csproj.CoreCompileInputs.cache
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.dll
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/refint/DelegateAssignment.dll
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.pdb
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/DelegateAssignment.genruntimeconfig.cache
+/Users/dpg/RiderProjects/ConsoleApp6/DelegateAssignment/obj/Debug/net10.0/ref/DelegateAssignment.dll
